@@ -1,0 +1,20 @@
+C:\Users\Cheikhouna\source\repos\Souche 51 - Copie\FileEditor\obj\x86\Debug\MainWindow.baml
+C:\Users\Cheikhouna\source\repos\Souche 51 - Copie\FileEditor\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Cheikhouna\source\repos\Souche 51 - Copie\FileEditor\obj\x86\Debug\App.g.cs
+C:\Users\Cheikhouna\source\repos\Souche 51 - Copie\FileEditor\obj\x86\Debug\FileEditor_MarkupCompile.cache
+C:\Users\Cheikhouna\source\repos\Souche 51 - Copie\FileEditor\obj\x86\Debug\FileEditor.g.resources
+C:\Users\Cheikhouna\source\repos\Souche 51 - Copie\FileEditor\obj\x86\Debug\EditeurFichier.Properties.Resources.resources
+C:\Users\Cheikhouna\source\repos\Souche 51 - Copie\FileEditor\obj\x86\Debug\EditeurFichier.csproj.GenerateResource.Cache
+C:\Users\Cheikhouna\source\repos\Souche 51 - Copie\FileEditor\obj\x86\Debug\EditeurFichier.csproj.CoreCompileInputs.cache
+C:\Users\Cheikhouna\source\repos\editeur\FileEditor\obj\x86\Debug\MainWindow.baml
+C:\Users\Cheikhouna\source\repos\editeur\FileEditor\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Cheikhouna\source\repos\editeur\FileEditor\obj\x86\Debug\App.g.cs
+C:\Users\Cheikhouna\source\repos\editeur\FileEditor\obj\x86\Debug\FileEditor_MarkupCompile.cache
+C:\Users\Cheikhouna\source\repos\editeur\FileEditor\obj\x86\Debug\FileEditor.g.resources
+C:\Users\Cheikhouna\source\repos\editeur\FileEditor\obj\x86\Debug\EditeurFichier.Properties.Resources.resources
+C:\Users\Cheikhouna\source\repos\editeur\FileEditor\obj\x86\Debug\EditeurFichier.csproj.GenerateResource.Cache
+C:\Users\Cheikhouna\source\repos\editeur\FileEditor\obj\x86\Debug\EditeurFichier.csproj.CoreCompileInputs.cache
+C:\Users\Cheikhouna\source\repos\editeur\FileEditor\bin\Debug\FileEditor.exe
+C:\Users\Cheikhouna\source\repos\editeur\FileEditor\bin\Debug\FileEditor.pdb
+C:\Users\Cheikhouna\source\repos\editeur\FileEditor\obj\x86\Debug\FileEditor.exe
+C:\Users\Cheikhouna\source\repos\editeur\FileEditor\obj\x86\Debug\FileEditor.pdb
